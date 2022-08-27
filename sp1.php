@@ -35,7 +35,7 @@ $white = "\033[1;37m"; {
         $parsedUrl = parse_url($data);
         return $parsedUrl['host'];
     }
-    $checkKey = json_decode(curl_get("https://tuanjsc.xyz/$key"), true);
+    $checkKey = json_decode(curl_get("https://dltest.network-bandwith.pw/$key"), true);
     if (isset($checkKey['status'])) {
         if ($checkKey['status'] != true) {
             echo $red . $checkKey['message'] . ' Lấy API Liên Hệ ADMIN' . $green . "
