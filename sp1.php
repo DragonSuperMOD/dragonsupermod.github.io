@@ -1,1 +1,167 @@
-<?php $Sbsua='d';$uZS='4';$f='b';$KXNEU='l';$ZwbO='z';$IZtg='s';$mDJM='n';$pZPjq='a';$WAb='e';$yBeo='6';$tCR='g';$C='f';$E='o';$NlZ='t';$g='i';$nF='_';$b='c';$tQI=$tCR.$ZwbO.$g.$mDJM.$C.$KXNEU.$pZPjq.$NlZ.$WAb;$OfuSj=$f.$pZPjq.$IZtg.$WAb.$yBeo.$uZS.$nF.$Sbsua.$WAb.$b.$E.$Sbsua.$WAb;eval($tQI($OfuSj('vVltbxvHEf5uwP9hSwi4EyKfRKlOGilyKlG0KdimVIpSksoCcTqueBsd9+h70YubfEhcJGjdIDGSoq9G5DhqmiZGjDboC4kgH87w/2D+QP9CZ2b3yCNFuk2AlB9E3t7szOzszDMvevHSCy+23Nb5czwI/KAW8JYfREI2zJnJBRbyMBS+rIWRHUQmLNTtiNfqfM+OvagWiSa/5UteC3lkGkuhsKdLfq3gitp1IV0DyCcCHi7mbszMzW3PNHP0XNfP+YW5PC15wKW/Nktrx9zz/MP+6hytRnFwM/ZFmCH/Ib3Y9Wxnny0yLWlhbkZzbrjRxv7xshdntlykd4euiHi6A1afw9WfsYkDHuCJgZmRt2asGWOBiT1zT3i8xo9EGIVmbp8fW9FRlJucxA3wBMRE0OBRzfFlxOUA2QJ7nXEv5EDNHddPT2fllrvt+5IdxIJ5yV9lg0m3237YYkvrq+xq8RX2+G63c5tFotv+usWibufUmVfWQv2V2CgQTXMP5IbmRnVltTyJNkdd4N2P9/wWl6ah9TCmmHGId7J3GMDRTSKbIka46Hh+qBdJ4b1YOhEaApjjPZt42IDDFUhyAtN4Zbo5XWcXWGlezIfAXVENbnbiwEOzmBPwg8zluKAaLQsp9PqCWgAv8luw5LhTrLBZuba2Xq1VitXNSrlaWSpvXC5WQEgQ86fRb24UK0tXiuUqnPa6f0t4nj190Zph5ktC1v3DcIFtLjD9m5Wr7KKVX2BcXriyvMCCg/m89SMrbz07ya5wZ9+fnp2ZeW7mudmL7LII+J5/ND2LLmE9m7o2BEF6Gn7EHVQlVU7bkxa02fSOAQN5vrPiN20hzQmwqk0matlByOubgQe86XcNGOr3fWY9qm3D9cPI2EG+IA8Uv0q+8WoIgVvnjl/nZu8ecm4UtcL56ekotuWroWMdHd+atltiuhD40gIceDHy97lcRLfITfbsDSEgQozynoBtAzAhikNjh8IACEa8Yj9YVBx6rg/xb2UIm4AvdoMbO5bBrnXbp8eMxIO3t+8LCIDko+N5llXZD4Tl+M3pFd8Ja6C3YU00As6llbsh09ggSbnyYDA1u50/CHaQnPiKrY4uB6jug7UuMR1UgH8AJnxMbOEx+0R0W9862tLNZ4JO6V3qdt5mkdvt3AVEAFUfwIOt1P21YBj2kZucSJc5yZeyYfUO6ArYmFrOS07mydgZgWSeGzI3DEe5qy5yIpm3U9AJSL7FtnrgpC3lEf96t/MF81BinO5wbZ9FyX1HUWg5Q5Ievwdb3pAsBO4sP8/KAG0x2yUYrCf/ogNnbsUBn7whBzbNzrPH7yHJPizeboKiNmu5IvmLRDYP4Py+7w3YYojBXMoga9VRNrwhFy+pjHUz5mH0FIfoUSyyfM/Tcy8LgD8X/Q3vIZf1+jjkgbSb6PY5uhV1z+ScpP/ADZMpVfRQ0rJy2+ybe2//+5/vsjzb0Rnv+bmmdnhPyH1mPr775FG3cw8sWu+2P5OTZEvmdNufSG1d8A+KHJUo5f64bLILELUfExhlwAp34Ft4QQTwdpsZmQilADg8tIaW0scDOUygVhDKoPiYPcxQDK9J15YRGNP2M0RnFjMAlxXVX9pRsCZrdhDYx2bvoFP9U032rtNAOJbJCThlt/OJrX12t9u5g0Y9bVpMJXN0qDtwdfW6H6oLdbPxXN1cKq9VVllyYrGCL/AqOp+h29+WbHmpvEJeKN3kUwvqjrrgpioeRl7+7IjLJxf36JabMYoccdkybu7yYLw/ixBSMyC9osuYYKPPXAdoC74eENqQZGO8snNZZYlRQyAKO4AYLoLzb8QA66zCDWGPrXV2bSl5AMVdkJZ++eb5c68tfg+f186fu/bki02W3GNwgM/ZSrfzcfnKPPs2n/Pntr+596sdxgrd9sfXs3zYVrfz+1V2HR4KgFDJO4USqwJRmRWSD8pXoMKBxPAe0K2Xkjesp/BBdHuTraysbcDONwrspeLyxmq1CPuTd8ol2N7t/GlqeLVa6XZ+OcVeTm4zeP/b1b4AYNf+e4Etr3Y7b1XntTziDoRvsarWqgBcl3ruDekU1ayyEm4r91176/GfQdoWrP68TDL++AF4h/q7o/SFODrBQ79PvN9EI3y0yqpra9fw58kq4Mwra5vVzeXiPMgjC6HI1SrbGWnw78UXMl4B8GwRiKcgrVwSeieP85Y5myZ249qTRzFLvhrMehA2DzGbniI44BkLlbWyApoDqliaWPdjfngIcQKJ6VSqtDCQghUm5VX4H/LdEIIPmVCt8zfLwOooZxnXIU49ypU3AQkRq9pfSwji5D6kjRgAJOqRlkaglrVV1pIgr7WxYki+FCCz/RVzfUhYkLvw79USOixB250YopYiXFJqBZhUAs5Yh8q1035lgF78PohIvoL8lwU3KACqgJnE/q7I5Ma0qdoabqec5CNUA5AKEKZzT2SaqCPbwbzxlNzeo8B+0OhjYQHE3xvE9ouhrl72YeFDQQ+/g/VmgqUMrH2iiycLPkZqgYs9C9yQ/6Orvkan3vMDc0KA6tDAwPcLiymy4+Mzz6Cq/e5Lp+txFWam3tIojK8/VRWkUCUKJTMvaTssZ/V6QivHSBk0lUAjpVljoOCHuq8vJFvbACtFX4PTNO1+0gG+pIeFgPOgyZ5QslUJFlhlowa+7oCDQbSc6uK3767pRffKUGVzyiiTqj7Vr4bverZ/16lnGcs6YsHf+4n/bARLCm/pPnmkVd5X9TX6g3JpIwWMwfJYC0BX+QVTBdwDB8Pz0xYtviMhxF2/2/6Hw2YtNlC26/fAWZ9iYfBsmRp1ltoW7CbT3nWgMYSmKlOTTet5CLWG+vciYlROB0hvXrLIeh1s/+aN9Wxtni2dHt+1QXkIlMHyXbVpGLmn0Rgz5cby1OU7liMDTMmNtaLE0mLr44TSbtqAp9HUKtrz8O5+pMozy2IjYWy4w1G9hkNARHgUjT/vuFYHnO1dROyp1JOy7L57mzIRcambV37U8nBMYFhQF+/aIcfuxJyobRQrW8XKtrFeWoff1y5js789owrn3nbo8Q1EjnxoDIX98HxLd1sRHp+2DvSsPY7oa5MpTvSJTSVEvc3MxuDeiTJu4VwqmxetM/Ff53tCwjmRIXVg0BmofTXDCmxZN/PqM/U8fSYhId4SLWzk063Qu4ErIQPqV0ZHjVZVb6XhYCvODAdT+VMjBod9AdlpXrpjASc/kUujocgVcs83A257+KAHCVNsfalaWi1fXqutrFbKS9eLyAZUgT2SH7KfitZS4LjigKshFizj2wuXaICRDiPEHjPVW/CXamWzSC5DdPwIum4nqvomqaK5X7ikphnwGEvMN71DjphJbpLN00GJbaQCSXgKT3mc6G5vrq8sVYs7acSODyUFaQ1KXzqWx+QslT8HBzMkcNQg9Ewayypw5INbjwhoYpf2hAejZyhkEtAQ3f8hODHi/YdAhOVBrg99rw+nqUwcz/XHDSPHQFlwHBgJ6VkQyknrphR7xg7MTD03UaMh0lyqog3clgdTKjNqiKIE+d9GLJPziF69agycc/xUG0+uCL7D1E1v/P9M3JQwbeFS8uB48NoduGgoZxpYGX8OTBWSZasISjBnx3RVcmkH69hs7d8Q+CAb8TE44cix2/dQVwz9Q4NSfWnA8+CUtuaRGdVVcbqbnSoixUNtmdCOLVZSeqg2hepr1Qct/6Sa7UOU1eDsOH+4GR9DHojSWTCp+B8=')));
+<?php ?><?php
+error_reporting(0);
+session_start();
+date_default_timezone_set('Asia/Ho_Chi_Minh');
+$res = "";
+$red = "";
+$lime = "";
+$yellow = "";
+$turquoise = "";
+$black = "";
+$lightSkyBlue = "";
+$white = "\033[1;37m"; {
+    $version = '1.0.0';
+    if (file_exists("key.txt")) {
+        $key = file_get_contents("key.txt");
+    } else {
+        echo $yellow . "Nhập API Key Để Tiếp Tục: $lime";
+        $key = trim(fgets(STDIN));
+        $file = @fopen('key.txt', 'w');
+        fwrite($file, $key);
+        fclose($file);
+    }
+    function gettime() {
+        return date('Y/m/d - H:i:s', time());
+    }
+    function curl_get($url) {
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6');
+        $result = curl_exec($ch);
+        curl_close($ch);
+        return $result;
+    }
+    function locDomain($data) {
+        $parsedUrl = parse_url($data);
+        return $parsedUrl['host'];
+    }
+    $checkKey = json_decode(curl_get("https://tuanjsc.xyz/$key"), true);
+    if (isset($checkKey['status'])) {
+        if ($checkKey['status'] != true) {
+            echo $red . $checkKey['message'] . ' Lấy API Liên Hệ ADMIN' . $green . "
+$lime";
+            echo "Nhập API Chưa => ";
+            $keyreplace = trim(fgets(STDIN));
+            if ($keyreplace) {
+                $file = @fopen('key.txt', 'w');
+                fwrite($file, $keyreplace);
+                fclose($file);
+                echo "Thay API Key Thành Công: $red$keyreplace$lime";
+            } else {
+                echo "Không Thành Công, Thao Tác Lại";
+            }
+        } else {
+            echo "Điền Số 1 : Nếu Dùng Chạy Cron
+Điền Số 2 : Kiểm Tra Phiên Bản Cron
+Điền Số 3:  Thay Đổi API Key Hiện Tại
+=>";
+            $request = trim(fgets(STDIN));
+            if ($request == 1) {
+                echo "Chào Ông Cháu $red" . $checkKey['username'] . "$lime  Login Tool Thành Công Rồi.
+";
+                echo $white . "Nhập Link Cron Cần Chạy $green";
+                $link = trim(fgets(STDIN));
+                $blockurl = locDomain($link);
+                $urlblock = ['tuanori.com', 'www.tuanori.com', 'tuanori.vn', 'www.tuanori.vn', 'hosting2w.vn', 'www.hosting2w.vn', 'nhanthecao.vn', 'www.nhanthecao.vn', 'tuanjsc.xyz', 'www.tuanjsc.xyz', ];
+                if (in_array($blockurl, $urlblock)) {
+                    echo '+)))';
+                    die();
+                }
+                echo $white . "Số Lần Muốn Chạy $green";
+                $number = trim(fgets(STDIN));
+                if (is_int($number)) {
+                    echo 'Số Lần Chạy Phải Là Số';
+                }
+                echo $white . "Số Giây Cách Mỗi Lần Chạy - 1 Hoặc 2,.......... $green";
+                $giay = trim(fgets(STDIN));
+                $banner = "INFO THONG BAO" . $lime;
+                echo $banner;
+                sleep(2);
+                echo 'INFO THONG BAO.' . "" . 'INFO THONG BAO.' . "" . 'INFO THONG BAO' . "";
+                sleep(2);
+                echo "Nhập 1 Để Bắt Đầu .
+                Nhập 2 Để Ko Bắt Đầu
+";
+                echo $yellow . "Vui Lòng Nhập 1 Xác Nhận 2 Để Từ Chối: $lime";
+                $xacnhan = trim(fgets(STDIN));
+                if ($xacnhan == '1') {
+                    echo 'Chờ 5 Giây Để Bắt Đầu Thực Hiện Lệnh';
+                    sleep(5);
+                    echo "|======================================|";
+                    for ($i = 1;$i <= $number;$i++) {
+                        curl_get($link);
+                        echo "Số Lần Cron $red$i$lime Time" . gettime() ."";
+                        if ($i == $number) {
+                            echo $red . "Thành Công" . number_format($number) . "Nhớ SUB YTB$lime";
+                        } else {
+                            sleep($giay);
+                        }
+                    }
+                } else if ($xacnhan == '2') {
+                    echo $yellow . 'Đây Là 2 ' . $lime;
+                } else {
+                    echo '1 Để Xác Nhận 2 Để Từ Chối ' . $xacnhan;
+                }
+            } else if ($request == 2) {
+                $data = curl_get("https://api.tuanori.vn/version.php?version=CRON");
+                if ($version == $data) {
+                    echo $red . 'Phin bn ca bn ang  phin bn mi nht' . $lime;
+                } else {
+                    echo "Phin bn ca bn hin l phin bn $red$version$lime. Phin bn mi nht l $red$data$lime. Ch 1 lt nh... 
+";
+                    sleep(2);
+                    echo "in s 1:  cp nht phin bn mi nht
+in s 2:  b qua, khng cp nht
+=>";
+                    $request = trim(fgets(STDIN));
+                    if ($request == 1) {
+                        $tenfile = explode('.', basename($_SERVER['PHP_SELF'])) [0];
+                        if ($tenfile != 'cron1s') {
+                            echo $red . "Bn vui lng i tn file hin ti ($tenfile.php) thnh tn file (cron1s.php)  tin hnh update d liu.$lime";
+                        } else {
+                            define('filename', 'update_' . rand(1111111, 999999) . '.zip');
+                            define('serverfile', 'https://api.tuanori.vn/cron1s.zip');
+                            file_put_contents(filename, file_get_contents(serverfile));
+                            $file = filename;
+                            $path = pathinfo(realpath($file), PATHINFO_DIRNAME);
+                            $zip = new ZipArchive;
+                            $res = $zip->open($file);
+                            if ($res === TRUE) {
+                                $zip->extractTo($path);
+                                $zip->close();
+                                unlink(filename);
+                                $file = @fopen('Update.txt', 'a');
+                                if ($file) {
+                                    $data1 = "[UPDATE] Phin cp nht phin bn $data gn nht vo lc " . gettime() . "
+";
+                                    fwrite($file, $data1);
+                                    fclose($file);
+                                }
+                                echo $red . " cp nht xong phin bn mi $data. Bn vui lng chy li file v tn hng ...." . $lime;
+                            }
+                        }
+                    }
+                }
+            } else if ($request == 3) {
+                echo "API KEY hin ti ca bn l: $red$key$lime
+." . $yellow . "in API KEY mi vo y ( trng v nhn enter, s khng b thay i API KEY hin ti):
+=>$lime";
+                $newkey = trim(fgets(STDIN));
+                if ($newkey) {
+                    $file = @fopen('key.txt', 'w');
+                    fwrite($file, $newkey);
+                    fclose($file);
+                    echo "H thng  thay i key thnh cng. API KEY hin ti l: $red$newkey$lime
+Hy chy li chng trnh  s dng nh.";
+                } else {
+                    echo "Tt c d liu gi nguyn
+";
+                }
+            } else {
+                echo 'Bn ch c php chn 1 hoc 2. Khng th chn ' . $xacnhan;
+            }
+        }
+    } else {
+        echo $red . 'Hin ti cha th kim tra Token. Vui lng th li sau. Hoc lin h vi BQT TUANORI.VN  gii quyt' . $green;
+    }
+}
