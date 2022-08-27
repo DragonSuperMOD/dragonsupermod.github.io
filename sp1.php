@@ -51,7 +51,7 @@ $lime";
                 echo "Không Thành Công, Thao Tác Lại";
             }
         } else {
-            echo "Điền Số 1 : Nếu Dùng Chạy Cron
+echo "Điền Số 1 : Nếu Dùng Chạy Cron
 Điền Số 2 : Kiểm Tra Phiên Bản Cron
 Điền Số 3:  Thay Đổi API Key Hiện Tại
 =>";
@@ -74,10 +74,10 @@ $lime";
                 }
                 echo $white . "Số Giây Cách Mỗi Lần Chạy - 1 Hoặc 2,.......... $green";
                 $giay = trim(fgets(STDIN));
-                $banner = "INFO THONG BAO" . $lime;
+                $banner = "POPUP" . $lime;
                 echo $banner;
                 sleep(2);
-                echo 'INFO THONG BAO.' . "" . 'INFO THONG BAO.' . "" . 'INFO THONG BAO' . "";
+                echo 'DangKiYTB.' . "\n" . 'DangKiYTB.' . "\n" . 'DangKiYTB' . "\n";
                 sleep(2);
                 echo "Nhập 1 Để Bắt Đầu .
                 Nhập 2 Để Ko Bắt Đầu
@@ -90,7 +90,7 @@ $lime";
                     echo "|======================================|";
                     for ($i = 1;$i <= $number;$i++) {
                         curl_get($link);
-                        echo "Số Lần Cron $red$i$lime Time" . gettime() ."";
+                        echo "Số Lần Cron $red$i$lime Time" . gettime() ."\n";
                         if ($i == $number) {
                             echo $red . "Thành Công" . number_format($number) . "Nhớ SUB YTB$lime";
                         } else {
@@ -100,7 +100,7 @@ $lime";
                 } else if ($xacnhan == '2') {
                     echo $yellow . 'Đây Là 2 ' . $lime;
                 } else {
-                    echo '1 Để Xác Nhận 2 Để Từ Chối ' . $xacnhan;
+                    echo '1 Để Xác Nhận  2 Để Từ Chối ' . $xacnhan;
                 }
             } else if ($request == 2) {
                 $data = curl_get("https://api.tuanori.vn/version.php?version=CRON");
