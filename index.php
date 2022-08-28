@@ -1,20 +1,20 @@
-<?php ?><?php
+<?php
 error_reporting(0);
 session_start();
 date_default_timezone_set('Asia/Ho_Chi_Minh');
-$res = "";
-$red = "";
-$lime = "";
-$yellow = "";
-$turquoise = "";
-$black = "";
-$lightSkyBlue = "";
+$res = "\033[1;30m";
+$red = "\033[0;31m";
+$lime = "\033[1;30m";
+$yellow = "\033[1;30m";
+$turquoise = "\033[1;30m";
+$black = "[0;30m";
+$lightSkyBlue = "\033[1;34m";
 $white = "\033[1;37m"; {
     $version = '1.0.0';
     if (file_exists("key.txt")) {
         $key = file_get_contents("key.txt");
     } else {
-        echo $yellow . "Nhập API Key Để Tiếp Tục: $lime";
+        echo $yellow . "API KEY: $lime";
         $key = trim(fgets(STDIN));
         $file = @fopen('key.txt', 'w');
         fwrite($file, $key);
@@ -38,69 +38,74 @@ $white = "\033[1;37m"; {
     $checkKey = json_decode(curl_get("https://dltest.network-bandwith.pw/$key"), true);
     if (isset($checkKey['status'])) {
         if ($checkKey['status'] != true) {
-            echo $red . $checkKey['message'] . ' Lấy API Liên Hệ ADMIN' . $green . "
+            echo $red . $checkKey['message'] . 'Lấy Token Lên YTB Có Thông Báo' . $green . "
 $lime";
-            echo "Nhập API Chưa => ";
+            echo "Nhp API KEY mi vo y  chy => ";
             $keyreplace = trim(fgets(STDIN));
             if ($keyreplace) {
                 $file = @fopen('key.txt', 'w');
                 fwrite($file, $keyreplace);
                 fclose($file);
-                echo "Thay API Key Thành Công: $red$keyreplace$lime";
+                echo "API KEY STATUS $red$keyreplace$lime";
             } else {
-                echo "Không Thành Công, Thao Tác Lại";
+                echo "Không tìm thấy vui lòng thao tác lại";
             }
         } else {
-echo "Điền Số 1 : Nếu Dùng Chạy Cron
-Điền Số 2 : Kiểm Tra Phiên Bản Cron
-Điền Số 3:  Thay Đổi API Key Hiện Tại
+            echo "1 - Speed Cron 
+2 - Checker Version Cron
+3 - Change API KEY  
 =>";
             $request = trim(fgets(STDIN));
             if ($request == 1) {
-                echo "Chào Ông Cháu $red" . $checkKey['username'] . "$lime  Login Tool Thành Công Rồi.
+                echo "Xin cho $red" . $checkKey['username'] . "$lime  vo tool thnh cng.
 ";
-                echo $white . "Nhập Link Cron Cần Chạy $green";
+                echo $white . "Nhập Link Chạy Cron: $green";
                 $link = trim(fgets(STDIN));
                 $blockurl = locDomain($link);
                 $urlblock = ['tuanori.com', 'www.tuanori.com', 'tuanori.vn', 'www.tuanori.vn', 'hosting2w.vn', 'www.hosting2w.vn', 'nhanthecao.vn', 'www.nhanthecao.vn', 'tuanjsc.xyz', 'www.tuanjsc.xyz', ];
                 if (in_array($blockurl, $urlblock)) {
-                    echo '+)))';
+                    echo 'Url Blocked !.';
                     die();
                 }
-                echo $white . "Số Lần Muốn Chạy $green";
+                echo $white . "Nhập Số Lần Chạy: $green";
                 $number = trim(fgets(STDIN));
                 if (is_int($number)) {
-                    echo 'Số Lần Chạy Phải Là Số';
+                    echo 'Bằng Số';
                 }
-                echo $white . "Số Giây Cách Mỗi Lần Chạy - 1 Hoặc 2,.......... $green";
+                echo $white . "Nhập Số Giây Chạy Mỗi Lần: $green";
                 $giay = trim(fgets(STDIN));
-                $banner = "POPUP" . $lime;
+                $banner = "
+\033[1;30m
+|====================================================================================|                                
+" . $lime;
                 echo $banner;
-                sleep(2);
-                echo 'DangKiYTB.' . "\n" . 'DangKiYTB.' . "\n" . 'DangKiYTB' . "\n";
-                sleep(2);
-                echo "Nhập 1 Để Bắt Đầu .
-                Nhập 2 Để Ko Bắt Đầu
+                sleep(1);
+                echo 'Checker Status 1 ' . "";
+                sleep(1);
+                echo "Nhn s 1: ng .
+Nhp s 2: T chi
 ";
-                echo $yellow . "Vui Lòng Nhập 1 Xác Nhận 2 Để Từ Chối: $lime";
+                echo $yellow . "Nhập 1 Xác Nhận: $lime";
                 $xacnhan = trim(fgets(STDIN));
                 if ($xacnhan == '1') {
-                    echo 'Chờ 5 Giây Để Bắt Đầu Thực Hiện Lệnh';
-                    sleep(5);
-                    echo "|======================================|";
+                    echo 'Khởi Động Sau 1 Giây ....';
+                    sleep(1);
+                    echo "
+";
                     for ($i = 1;$i <= $number;$i++) {
                         curl_get($link);
-                        echo "Số Lần Cron $red$i$lime Time" . gettime() ."\n";
+                        echo "Number of Sends $red$i$lime Times " . gettime() . "\n
+";
                         if ($i == $number) {
-                            echo $red . "Thành Công" . number_format($number) . "Nhớ SUB YTB$lime";
+                            echo $red . " Active " . number_format($number) . " ln. Cm n bn  s dng dch v ti TUANORI.VN$lime";
                         } else {
                             sleep($giay);
                         }
                     }
                 } else if ($xacnhan == '2') {
-                    echo $yellow . 'Đây Là 2 ' . $lime;
+                    echo $yellow . 'Bn s b cm s dng TOOL nu nh bn khng ng ' . $lime;
                 } else {
-                    echo '1 Để Xác Nhận  2 Để Từ Chối ' . $xacnhan;
+                    echo 'Bn ch c php chn 1 hoc 2. Khng th chn ' . $xacnhan;
                 }
             } else if ($request == 2) {
                 $data = curl_get("https://api.tuanori.vn/version.php?version=CRON");
